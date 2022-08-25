@@ -1,13 +1,2 @@
-.idea/
-.idea/modules/Hermit.main.iml
-.idea/.gitignore
-.idea/compiler.xml
-.idea/discord.xml
-.idea/gradle.xml
-.idea/vcs.xml
-.idea/markdown.xml
-.idea/workspace.xml
-.idea/misc.xml
-.idea/jarRepositories.xml
-gradle/wrapper
-
+/.idea/
+/.gradle/
