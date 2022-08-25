@@ -1,0 +1,9 @@
+name: Hermit
+version: '0.0.1'
+main: me.callahandevelopment.hermit.HermitMain
+api-version: 1.18
+authors: [ Callahan ]
+website: https://github.com/Call4han
+commands:
+  hermit:
+    description: Command Main Hermit
