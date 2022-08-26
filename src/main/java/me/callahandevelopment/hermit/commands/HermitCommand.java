@@ -22,7 +22,7 @@ public class HermitCommand implements CommandExecutor {
         if (sender instanceof Player){
             Player p = (Player) sender;
             if (args.length==1){
-                if (p.hasPermission("Hermit.open")){
+                if (p.hasPermission("Hermit.open")&&(p.isOp())){
                     if (args[0].equalsIgnoreCase("open")){
                         InventoryUtil.OpenInventoryMain(p);
                     }
