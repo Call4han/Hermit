@@ -3,10 +3,8 @@ version = "1.0-SNAPSHOT"
 plugins {
     id("java")
 }
-
 group = "me.callahandevelopment"
 version = "1.0"
-
 repositories {
     mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")

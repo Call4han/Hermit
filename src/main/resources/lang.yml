@@ -1,0 +1,151 @@
+#By Callahan
+#Two Plugin
+#MainGUI ============ CREATE ITEM
+Inventory-main-title: "&cInventory"
+Inventory-leave-item-name: "&cLeave"
+Inventory-leave-item-lore:
+  - "pe"
+
+inventory-create-title: "&cCreate item"
+inventory-main-title-item: "&cInventory"
+inventory-main-title-item-lore:
+  - "pe2"
+
+inventory-main-title-edit: "&cEdit item of your mainhand"
+inventory-main-title-edit-lore:
+  - "&cEdit the item"
+  - "&cOf your mainhand"
+inventory-edit-title: "&cEdit item"
+
+
+Inventory-options-title: "&cOptions Item"
+#Options-menu =========== OPTIONS ITEM
+#-------------------------------------->
+Options-netherstar-name: "&bOptions"
+Options-netherstar-lore:
+  - "&7You can put"
+  - "&7Things that can"
+Options-back-item-name: "&4Back"
+Options-back-item-lore:
+  - "&7Back"
+  - "&7To previous menu"
+
+
+Edit-paper-name: "&bRemove all Skills"
+Edit-paper-lore:
+  - "&7Clear all skills"
+  - "&7warning"
+Edit-barrier-name: "&cDelete"
+Edit-barrier-lore:
+  - "&7Delete the item"
+  - "&7Of your mainhand"
+#Skills-names:
+Options-item-skill-lightning-name: "&bLightning"
+Options-item-skill-lightning-lore:
+  - "&7Add lightning"
+  - "&7To the item"
+Options-item-skill-skull-name: "&bSkull"
+Options-item-skill-skull-lore:
+  - "&7Add skull"
+  - "&7To the item"
+Options-item-skill-dragon-name: "&bDragon Shoot"
+Options-item-skill-dragon-lore:
+  - "&7Add dragon shoot"
+  - "&7To the item"
+Options-item-skill-arrow-name: "&bArrow"
+Options-item-skill-arrow-lore:
+  - "&7Add arrow"
+  - "&7To the item"
+Options-item-skill-tnt-name: "&bTNT"
+Options-item-skill-tnt-lore:
+  - "&7Add TNT"
+  - "&7To the item"
+Options-item-skill-potion-name: "&bPotion"
+Options-item-skill-potion-lore:
+  - "&7Add potion"
+  - "&7To the item"
+Options-item-skill-trident-name: "&bTrident"
+Options-item-skill-trident-lore:
+  - "&7Add trident"
+  - "&7To the item"
+Options-item-skill-snow-name: "&bSnowball"
+Options-item-skill-snow-lore:
+  - "&7Add snowball"
+  - "&7To the item"
+Options-item-skill-firework-name: "&bFirework"
+Options-item-skill-firework-lore:
+  - "&7Add firework"
+  - "&7To the item"
+Options-item-skill-fireball-name: "&bFireball"
+Options-item-skill-fireball-lore:
+  - "&7Add fireball"
+  - "&7To the item"
+
+
+
+
+
+Options-item-lore-show-skill-lightning: "&dSkill Lightning"
+Options-item-lore-show-skill-skull: "&dSkill Skull"
+Options-item-lore-show-skill-Dragon: "&dSkill Dragon"
+Options-item-lore-show-skill-fireball: "&dSkill Fireball"
+Options-item-lore-show-skill-Arrow: "&dSkill Arrow"
+Options-item-lore-show-skill-TNT: "&dSkill TNT"
+Options-item-lore-show-skill-potion: "&dSkill Potion"
+Options-item-lore-show-skill-firework: "&dSkill Firework"
+Options-item-lore-show-skill-Trident: "&dSkill Trident"
+Options-item-lore-show-skill-Snowball: "&dSkill Snowball"
+
+
+
+
+
+#<----------------------------------------
+
+
+
+#warning messages
+warning-messsage-air-click: "&4Just click on valid items"
+dont-permission: "&4You don't have permission to do this"
+
+#Skill-Already
+Skill-Lightning-Already: "&cSkill Lightning Already"
+Skill-Skull-Already: "&cSkill Skull Already"
+Skill-Dragon-Already: "&cSkill Dragon Already"
+Skill-Fireball-Already: "&cSkill Fireball Already"
+Skill-Arrow-Already: "&cSkill Arrow Already"
+Skill-TNT-Already: "&cSkill TNT Already"
+Skill-Potion-Already: "&cSkill Potion Already"
+Skill-Firework-Already: "&cSkill Firework Already"
+Skill-Trident-Already: "&cSkill Trident Already"
+Skill-Snowball-Already: "&cSkill Snowball Already"
+
+#Skill-Done
+Skills-Lightning-Done: "&aSkill Lightning Done"
+Skills-Skull-Done: "&aSkill Skull Done"
+Skills-Dragon-Done: "&aSkill Dragon Done"
+Skills-Fireball-Done: "&aSkill Fireball Done"
+Skills-Arrow-Done: "&aSkill Arrow Done"
+Skills-TNT-Done: "&aSkill TNT Done"
+Skills-Potion-Done: "&aSkill Potion Done"
+Skills-Firework-Done: "&aSkill Firework Done"
+Skills-Trident-Done: "&aSkill Trident Done"
+Skills-Snowball-Done: "&aSkill Snowball Done"
+#Skill-Remove
+Skills-Lightning-Remove: "&cSkill Lightning Remove"
+Skills-Skull-Remove: "&cSkill Skull Remove"
+Skills-Dragon-Remove: "&cSkill Dragon Remove"
+Skills-Fireball-Remove: "&cSkill Fireball Remove"
+Skills-Arrow-Remove: "&cSkill Arrow Remove"
+Skills-TNT-Remove: "&cSkill TNT Remove"
+Skills-Potion-Remove: "&cSkill Potion Remove"
+Skills-Firework-Remove: "&cSkill Firework Remove"
+Skills-Trident-Remove: "&cSkill Trident Remove"
+Skills-Snowball-Remove: "&cSkill Snowball Remove"
+#Skills-All-Remove
+Skills-All-Remove: "You dont have any skills"
+#Item-remove
+Item-Remove: "&cItem Remove"
+
+#Expeptions
+Expeptions: "&4there was an exception when using a skill check the config"

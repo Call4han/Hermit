@@ -1,6 +1,7 @@
 name: Hermit
 version: '0.0.1'
 main: me.callahandevelopment.hermit.HermitMain
+description: Hermit is a simple plugin to put skills to your items
 api-version: 1.18
 authors: [ Callahan ]
 website: https://github.com/Call4han
