@@ -26,9 +26,9 @@ Hermit.op (Only permission).
 
 ## Commands
 Hermit reload:
-This is to reload the plugin every time a change is made.
+- This is to reload the plugin every time a change is made.
 Hermit open:
-With this command you can open the inventory to start creating items.
+- With this command you can open the inventory to start creating items.
 
 ## Contributing
 The pull request is welcome as long as it is positive.
