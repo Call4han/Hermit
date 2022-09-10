@@ -31,5 +31,5 @@ Hermit open:
 - With this command you can open the inventory to start creating items.
 
 ## Contributing
-The pull request is welcome as long as it is positive.
-Please make sure to update tests as appropriate.
+- The pull request is welcome as long as it is positive.
+- Please make sure to update tests as appropriate.
