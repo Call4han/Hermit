@@ -14,10 +14,12 @@ Hermit is a plugin that allows your items to have abilities.
 ```yml
 Config.yml:
 ```
+Link: https://github.com/Call4han/Hermit/blob/final/src/main/resources/config.yml
 Here you can modify the skills, and also the cooldown of the items
 ```yml
 Lang.yml:
 ```
+Link: https://github.com/Call4han/Hermit/blob/final/src/main/resources/lang.yml
 Here you can translate all the messages, lores and displays of the items and inventories
 ## Permissions
 Hermit.op (Only permission)
