@@ -16,7 +16,7 @@ Config.yml:
 ```
 Here you can modify the skills, and also the cooldown of the items
 ```yml
-Lang.yml
+Lang.yml:
 ```
 Here you can translate all the messages, lores and displays of the items and inventories
 
