@@ -6,6 +6,7 @@ Hermit is a plugin that allows your items to have abilities.
 
 - Download the jar and put it in your plugins folder of your server and restart the server.
 - You require java 17
+- Software tested: SPIGOT
 
 
 
