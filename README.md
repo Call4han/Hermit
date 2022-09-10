@@ -19,10 +19,10 @@ Here you can modify the skills, and also the cooldown of the items
 Lang.yml:
 ```
 Here you can translate all the messages, lores and displays of the items and inventories
-
-## Commands and Permissions
-Permissions:
+## Permissions
 Hermit.op (Only permission)
+
+## Commands
 Hermit reload:
 This is to reload the plugin every time a change is made
 Hermit open:
